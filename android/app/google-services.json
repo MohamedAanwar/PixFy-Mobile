@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035830526539",
+    "project_id": "pixfyapp",
+    "storage_bucket": "pixfyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035830526539:android:ec964c3936a08d48f903ce",
+        "android_client_info": {
+          "package_name": "com.example.pixfyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3nKhB6oB2YxQIn74e1RJmHs_EL8d-gHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

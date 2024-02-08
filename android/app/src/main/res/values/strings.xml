@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Pixffy"</string>
+    <string name="facebook_app_id">1275988240459041</string>
+    <string name="fb_login_protocol_scheme">fbbc8e9d334e7cefc18326f363241c89fb</string>
+    <string name="facebook_client_token">dc39587b48aece101b62f953797eea5f</string>
+</resources>
